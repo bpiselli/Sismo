@@ -185,3 +185,4 @@ build output is always at your fingertips.
 .. _CCTray:    http://confluence.public.thoughtworks.org/display/CCNET/CCTray
 .. _CCMonitor: http://code.google.com/p/cc-monitor/
 .. _JCCTray:   http://sourceforge.net/projects/jcctray/
+.
